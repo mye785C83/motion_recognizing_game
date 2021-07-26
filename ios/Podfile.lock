@@ -1,0 +1,63 @@
+PODS:
+  - agora_rtc_engine (3.1.2):
+    - AgoraRtcEngine_iOS_Crypto (= 3.1.2)
+    - Flutter
+  - AgoraRtcEngine_iOS_Crypto (3.1.2)
+  - device_info (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - native_screenshot (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - "permission_handler (4.4.0+hotfix.4)":
+    - Flutter
+  - TensorFlowLite (1.13.1)
+  - tflite (1.0.4):
+    - Flutter
+    - TensorFlowLite
+
+DEPENDENCIES:
+  - agora_rtc_engine (from `.symlinks/plugins/agora_rtc_engine/ios`)
+  - device_info (from `.symlinks/plugins/device_info/ios`)
+  - Flutter (from `Flutter`)
+  - native_screenshot (from `.symlinks/plugins/native_screenshot/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - tflite (from `.symlinks/plugins/tflite/ios`)
+
+SPEC REPOS:
+  trunk:
+    - AgoraRtcEngine_iOS_Crypto
+    - TensorFlowLite
+
+EXTERNAL SOURCES:
+  agora_rtc_engine:
+    :path: ".symlinks/plugins/agora_rtc_engine/ios"
+  device_info:
+    :path: ".symlinks/plugins/device_info/ios"
+  Flutter:
+    :path: Flutter
+  native_screenshot:
+    :path: ".symlinks/plugins/native_screenshot/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  tflite:
+    :path: ".symlinks/plugins/tflite/ios"
+
+SPEC CHECKSUMS:
+  agora_rtc_engine: 32048a28e704409db84405224cfda55037f46f09
+  AgoraRtcEngine_iOS_Crypto: 42a7a2142317c588f1b5c2e74b98fd01d73f8f60
+  device_info: d7d233b645a32c40dfdc212de5cf646ca482f175
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  native_screenshot: 70900984bca8d5f42acf68611b8214b32a9f0deb
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  permission_handler: 8278954f2382902f63f00dd8828769c0bd6d511b
+  TensorFlowLite: 8b9dc4eb32eac0f8cb660c66bca7604da56dcc5a
+  tflite: a6911f4ac99be9c73c1dcffb1a5d54b3c56087a8
+
+PODFILE CHECKSUM: 7368163408c647b7eb699d0d788ba6718e18fb8d
+
+COCOAPODS: 1.10.1
